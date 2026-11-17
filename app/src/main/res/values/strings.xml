@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quản lý Sinh viên</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_student_list">Danh sách sinh viên</string>
+    <string name="title_student_add">Thêm sinh viên</string>
+    <string name="title_student_edit">Sửa sinh viên</string>
+    <string name="title_student_detail">Chi tiết sinh viên</string>
+    <string name="title_class_subject">Lớp / Môn học</string>
+    <string name="title_class_subject_add">Thêm Lớp / Môn học</string>
+    <string name="title_class_subject_edit">Sửa Lớp / Môn học</string>
+    <string name="title_grade">Điểm</string>
+    <string name="title_grade_input">Nhập điểm</string>
+    <string name="title_grade_view">Xem điểm</string>
+    <string name="title_statistics">Thống kê</string>
+
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_student">Sinh viên</string>
+    <string name="nav_class_subject">Lớp/Môn</string>
+    <string name="nav_grade">Điểm</string>
+    <string name="nav_stat">Thống kê</string>
+
+    <string name="btn_save">Lưu</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_edit">Sửa</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_save_grades">Lưu bảng điểm</string>
+</resources>
